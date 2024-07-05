@@ -1,0 +1,18 @@
+{
+    "updated_through": {
+        "season": 2023,
+        "week": 18
+    },
+    "descriptive": {
+        "overall_grade": 0.7034888234075101,
+        "opponent_overall_grade": -0.7623521437565135,
+        "intercept": 4.201930775595308
+    },
+    "predictive": {
+        "overall_grade": 0.19265694195252958,
+        "opponent_overall_grade": -0.07981710805356561,
+        "pass_grade": 0.047749878468552234,
+        "run_defense_grade": -0.04046761213433216,
+        "intercept": -8.339325435065273
+    }
+}
