@@ -3,3 +3,4 @@ numpy
 nfelodcm
 supabase
 python-dotenv
+statsmodels
