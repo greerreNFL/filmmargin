@@ -1,8 +1,8 @@
 name: run all
 
 on:
-  schedule:
-    - cron: '15 12 * 1,2,9-12 2'
+  repository_dispatch:
+    types: [grade_update]
 
 permissions:
   contents: write
